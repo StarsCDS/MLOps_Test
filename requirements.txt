@@ -1,0 +1,7 @@
+dvc
+joblib
+pandas
+scikit-learn
+mlflow
+pylint
+pytest-cov
